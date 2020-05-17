@@ -1,0 +1,155 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+
+    # Profile information
+    name: Waltenne Carvalhoaaa
+    tagline: Analista de Suporte
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    #email: 
+    #phone: 
+    website: #do not add http://
+    linkedin: waltenne
+    github: waltenne
+    #gitlab:
+    #bitbucket:
+    #twitter: 
+    #stack-overflow: # Number/Username, e.g. 123456/alandoe
+    #codewars:
+    #goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: Portugues
+        level: Nativo
+
+      - idiom: Inglês
+        level: Básico
+
+    interests:
+      - item: Música
+        link:
+
+      - item: Filmes/Series
+        link:
+
+      - item: Cozinhar
+        link:
+
+career-profile:
+    title: Resumo Profissional
+    #summary:
+      
+education:
+    - degree: Tecnólogo em Redes de Computadores
+      university: Universidade Salgado de Oliveira Campus
+      time: 2012 - 2014
+      details: 
+    - degree: Tecnólogo em Gestão de Sistemas de Informação
+      university: Instituto Unificado de Ensino Superior Objetivo
+      time: 2010 - 2015
+      details:
+experiences:
+    - role: Analista de Suporte
+      time: Maio 2018 - Atual
+      company: Oobj Tecnologia da Informação
+      details: |
+          Suporte ao Sistema de Processamento e Recebimento de Documentos Fiscais.
+          - Ambiente Windows e Linux.
+          - Monitoramento com Zabbix.
+          - Automatização em Shell Script e Python
+          - Orientação a clientes e parceiros.
+    - role: Assistente de Suporte N3
+      time: Julho 2014 - Março 2018
+      company: Burger King Centro Sul
+      details: |
+          - Service Desk e Field Support da franquia Burger King® Centro Sul
+          - Sistema MICROS e PDV; - Ambiente Windows e MacOS; - Infraestrutura de TI
+          - Treinamento aos usuários; - Controle de equipamentos em comodato
+          - Gerenciamento Usuários Windows Server 2012 e e-mail
+          - Manutenção preventiva e corretiva Impressora Laser e Computadores e Periféricos
+          - Documentação e Padronização de Procedimentos
+    - role: Estagio de TI
+      time: Fevereiro 2014 - Julho 2014
+      company: Burger King Centro Sul
+      details: |
+          - Suporte a hardware, software, infraestrutura de TI, controle de notas e pagamento.
+    - role: Teleoperador
+      time: Fevereiro 2014 - Julho 2014
+      company: Burger King Centro Sul
+      details: |
+          - Esclarecimento sobre serviços prestados da Saneamento de Goias S/A\n
+          - Solicitações de reparos e viabilidade para atendimento e novos clientes\n
+          - Análise e orientação sobre o consumo e faturamento\n
+          - Atendimento N1 e N2 aos clientes\n
+projects:
+    title: Projetos Realizados
+    #intro: >
+    assignments:
+      - title: Março de 2017 Burger King® NFC-e - Drive Thru 136 - Marista - Goiãnia/Goiás
+        #link:
+        tagline: "Implantação do sistema desenvolvido pela Oobj Tecnologia da Informação, para o novo modelo de documento fiscal Nota Fiscal do Consumidor Eletrônica."
+
+      - title: Fevereiro de 2017 Burger King® NFC-e - Shopping Cidade Jardim - Goiãnia/Goiás
+        #link:
+        tagline: "Implantação do sistema desenvolvido pela Oobj Tecnologia da Informação, para o novo modelo de documento fiscal Nota Fiscal do Consumidor Eletrônica."
+
+      - title: Dezembro de 2016 Burger King® NFC-e - Goiãnia/Goiás
+        #link:
+        tagline: "Implantação do sistema desenvolvido pela Oobj Tecnologia da Informação, para o novo modelo de documento fiscal Nota Fiscal do Consumidor Eletrônica. Unidades Shopping Bougainville, Buriti Shopping, Anápolis."
+
+      - title: Dezembro de 201] Burger King® Drive Tru Av. 85 - Goiãnia/Goiás
+        #link:
+        tagline: "Montagem e configuração de equipamentos de TI, instalação e configuração do sistema MICROS."
+
+      - title: Dezembro de 2015 Burger King® Central Park Shopping - Belo Horizonte/Minas Gerais
+        #link:
+        tagline: "Montagem e configuração de equipamentos de TI, instalação e configuração do sistema MICROS."
+        
+      - title: Dezembro de 2015 Burger King® Drive Thru Juiz de Fora - Juiz de Fora/Minas Gerais
+        #link:
+        tagline: "Montagem e configuração de equipamentos de TI, instalação e configuração do sistema MICROS."
+
+      - title: Dezembro de 2015 Burger King® Shopping Estação - Belo Horizonte/Minas Gerais
+        #link:
+        tagline: "Montagem e configuração de equipamentos de TI, instalação e configuração do sistema MICROS."
+
+      - title: Dezembro de 2014 Burger King® Shopping Cidade Jardim - Goiãnia/Goiás
+        #link:
+        tagline: "Montagem e configuração de equipamentos de TI, instalação e configuração do sistema MICROS."
+        
+publications:
+    title: Publicações
+    #intro: |
+    papers:
+    - title: Zabbix API + Python - Host com IP Dinâmico
+        link: medium.com/@waltenne.carvalho/zabbix-api-python-host-com-ip-din%C3%A2mico-5218fb9d11f2
+        authors: Waltenne Carvalho
+        #conference:
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Microsoft Windows
+        level: 90%
+        
+      - name: Linux
+        level: 70%
+
+      - name: Shell Script
+        level: 60%
+
+      - name: Zabbix
+        level: 50%
+        
+      - name: Python
+        level: 30%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
