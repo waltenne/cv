@@ -122,14 +122,6 @@ projects:
       - title: Dezembro de 2014 Burger King® Shopping Cidade Jardim - Goiãnia/Goiás
         #link:
         tagline: "Montagem e configuração de equipamentos de TI, instalação e configuração do sistema MICROS."
-        
-publications:
-    title: Publicações
-    #intro: |
-    papers:
-    - title: Zabbix API + Python - Host com IP Dinâmico
-        link: "medium.com/@waltenne.carvalho/zabbix-api-python-host-com-ip-din%C3%A2mico-5218fb9d11f2"
-        authors: Waltenne Carvalho
 
 skills:
     title: Skills &amp; Proficiency
