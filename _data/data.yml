@@ -128,7 +128,7 @@ publications:
     #intro: |
     papers:
     - title: Zabbix API + Python - Host com IP Dinâmico
-        link: medium.com/@waltenne.carvalho/zabbix-api-python-host-com-ip-din%C3%A2mico-5218fb9d11f2
+        link: https://medium.com/@waltenne.carvalho/zabbix-api-python-host-com-ip-din%C3%A2mico-5218fb9d11f2
         authors: Waltenne Carvalho
         
 skills:
