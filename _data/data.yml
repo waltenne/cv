@@ -7,7 +7,7 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Waltenne Carvalhoaaa
+    name: Waltenne Carvalho
     tagline: Analista de Suporte
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
@@ -55,6 +55,7 @@ education:
       time: 2010 - 2015
       details:
 experiences:
+    title: Experiencia Profissional
     - role: Analista de Suporte
       time: Maio 2018 - Atual
       company: Oobj Tecnologia da Informação
@@ -122,13 +123,21 @@ projects:
       - title: Dezembro de 2014 Burger King® Shopping Cidade Jardim - Goiãnia/Goiás
         #link:
         tagline: "Montagem e configuração de equipamentos de TI, instalação e configuração do sistema MICROS."
-
+        
+publications:
+    title: Publicacoes
+    #intro: |
+    papers:
+    - title: Zabbix API + Python - Host com IP Dinâmico
+        link: medium.com/@waltenne.carvalho/zabbix-api-python-host-com-ip-din%C3%A2mico-5218fb9d11f2
+        authors: Waltenne Carvalho
+        
 skills:
-    title: Skills &amp; Proficiency
+    title: Conhecimentos
 
     toolset:
       - name: Microsoft Windows
-        level: 90%
+        level: 80%
         
       - name: Linux
         level: 70%
@@ -141,6 +150,3 @@ skills:
         
       - name: Python
         level: 30%
-
-footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
